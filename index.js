@@ -1,9 +1,6 @@
 var request = require('request-promise');
 
 function get() {
-}
-
-function get() {
   var getOptions = {
     uri: 'http://localhost:3000/items',
     json: true
